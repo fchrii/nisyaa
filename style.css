@@ -1,0 +1,13 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.judul{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.isi{
+    padding: 20px;
+    background-color: aqua;
+}
