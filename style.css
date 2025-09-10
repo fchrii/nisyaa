@@ -1,13 +1,41 @@
 body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13pt;
+}
+
+th{
+    text-align: left;
+}
+
+img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.outline{
+    border: 1px solid black ;
+    width: 70%;
+    margin: 10px auto;
+    padding: 20px;
+
 }
 
 .judul{
     text-align: center;
-    background-color: aquamarine;
+    background-color: aqua;
 }
 
-.isi{
-    padding: 20px;
-    background-color: aqua;
+.blok{
+    overflow: hidden;
+}
+
+.kiri{
+    width: 20%;
+    float: left;
+}
+
+.kanan{
+    width: 70%;
+    padding: 0px 20px;
+    float: left;
 }
